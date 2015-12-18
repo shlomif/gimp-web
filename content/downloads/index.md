@@ -338,8 +338,9 @@ If you are running one of the existing GIMP mirrors, or want to create a new one
 <dd><a href="rsync://mirrors-usa.go-parts.com/mirrors/gimp/">rsync://mirrors-usa.go-parts.com/mirrors/gimp/</a> (rsync access)</dd>
 </dl>
 
-
 </div>
+
+<!-- MIRRORS -->
 
 <script src="/js/platform.js"></script>
 
